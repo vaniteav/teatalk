@@ -22,13 +22,14 @@ It works the first time you open it. Nothing to sign up for, nothing to pay.
 
 ## Why you'll like it
 
-- 🗣️ **Speak, don't type.** Your voice becomes chatbox text in another language while you keep talking.
+- 🗣️ **Speak, don't type.** Your voice becomes chatbox text in another language while you keep talking — live, no menus, no stopping mid-sentence.
 - 🆓 **Free out of the box.** Speech recognition runs on your PC (local Whisper); translation is built in (Microsoft Edge, with automatic fallback to Google). No account, no API key.
-- 🌐 **Auto-detects your language.** Just talk — TeaTalk figures out what you're speaking. Prefer to pin one language? Pick it, and local recognition gets faster.
+- 🔇 **Mute players are first-class here.** Switch on **Ignore mute** and TeaTalk turns your speech into chatbox text even while your VRChat mic is muted — so you're always in the conversation.
+- 🧠 **Translation that follows the conversation.** Bring your own OpenRouter key and TeaTalk carries context between lines — pronouns, follow-ups, and names stay consistent instead of each sentence being translated cold. (The free path needs no key.)
+- 🎨 **Actually designed.** A soft "Pastel Glass" interface, light and dark themes, and one consistent style across every module — an OSC tool that feels like it belongs in VRChat.
 - 🔀 **Translate or transcribe.** Post your words in another language, or caption your own speech as-is. One click to switch.
+- 🌐 **Auto-detects your language.** Just talk — TeaTalk figures out what you're speaking. Prefer to pin one language? Pick it, and local recognition gets faster.
 - 📝 **Reads the way you want.** Show the original first, the translation first, or translation only.
-- 🔇 **Mute players are first-class here.** Keep your VRChat mic muted, switch on **Ignore mute**, and TeaTalk still turns your speech into chatbox text — so you're in the conversation while your voice stays off.
-- 🧠 **Optional: bring your own key.** Point TeaTalk at your own OpenRouter model for conversation-aware translation — the free path needs no key.
 
 ---
 
@@ -75,7 +76,7 @@ Any API keys you add are **encrypted on your PC** (Windows DPAPI) and never leav
 - On the **default path, your voice is turned into text on your own PC** and isn't shipped to a server. (If you opt into a cloud speech engine, audio does leave your PC — that's your choice.)
 - **Translation** text goes to whichever engine you've picked (Edge/Google on the free path, or OpenRouter if you bring a key).
 - **Respect-VRChat-mute is on by default:** while you're muted in-world, TeaTalk transcribes nothing.
-- **Diagnostics are opt-in.** If you hit the in-app "Report a problem" button, logs are attached — those logs can include things like file paths, and they're **not** anonymized. There's no account and no identifier tied to you, but "not anonymous" is the honest word for it. Nothing is sent unless you choose to send it.
+- **Diagnostics are opt-in — nothing is sent unless you choose to.** If you use the in-app "Report a problem" button, it sends what you write, plus TeaTools' own logs and settings (never your API keys) and basic system info — your app version, your Windows version, and the time. No account or identifier is attached. We don't call it "anonymous," though: those logs can include file paths from your PC, and we'd rather be precise about your privacy than oversell it.
 
 ---
 
