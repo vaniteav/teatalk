@@ -6,7 +6,7 @@ Real-time speech translation for VRChat. Speak your language; the people you're 
 
 ## Download
 
-Get the latest build from [**Releases**](https://github.com/vaniteav/teatalk/releases/latest):
+Get the latest build from [**Releases**](https://github.com/vaniteav/teatalk/releases):
 
 1. Download `TeaTools-alpha.zip`
 2. Unzip it anywhere
