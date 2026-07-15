@@ -27,7 +27,7 @@ It works the first time you open it. Nothing to sign up for, nothing to pay.
 - 🌐 **Auto-detects your language.** Just talk — TeaTalk figures out what you're speaking. Prefer to pin one language? Pick it, and local recognition gets faster.
 - 🔀 **Translate or transcribe.** Post your words in another language, or caption your own speech as-is. One click to switch.
 - 📝 **Reads the way you want.** Show the original first, the translation first, or translation only.
-- ð **Mute players are first-class here.** Keep your VRChat mic muted, switch on **Ignore mute**, and TeaTalk still turns your speech into chatbox text â so you're in the conversation while your voice stays off. (Want it to stop the moment you mute? That's the default, **Pause**.)
+- 🔇 **Mute players are first-class here.** Keep your VRChat mic muted, switch on **Ignore mute**, and TeaTalk still turns your speech into chatbox text — so you're in the conversation while your voice stays off.
 - 🧠 **Optional: bring your own key.** Point TeaTalk at your own OpenRouter model for conversation-aware translation — the free path needs no key.
 
 ---
